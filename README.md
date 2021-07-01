@@ -1,6 +1,6 @@
-# [Ashmin - Resume](https://ashminantony.github.io/)
+# [Ashmin Antony - Resume](https://ashminantony.github.io/)
 
-[Ashmin-Resume](https://ashminantony.github.io/) is a modified version of resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+[Ashmin Antony - Resume](https://ashminantony.github.io/) is a modified version of resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 
 ## Status
