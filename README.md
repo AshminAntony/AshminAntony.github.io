@@ -1,6 +1,6 @@
-# [Sumithran - Resume](https://sumithran.netlify.com/)
+# [Ashmin - Resume](https://ashminantony.github.io/)
 
-[Sumithran-Resume](https://sumithran.netlify.com) is a modified version of resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+[Ashmin-Resume](https://ashminantony.github.io/) is a modified version of resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 
 ## Status
@@ -16,7 +16,7 @@
 
 To begin using this template, choose one of the following options to get started:
 * Clone the repo: `git clone https://github.com/zume2020/sumithran-resume.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/zume2020/sumithran-resume)
+* [Fork, Clone, or Download on GitHub](https://github.com/AshminAntony/ashminantony.github.io)
 
 ## Usage
 
@@ -25,7 +25,7 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/zume2020/sumithran-resume/issues) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/AshminAntony/ashminantony.github.io/issues) here on GitHub.
 
 ## About
 
@@ -36,7 +36,10 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
+## Credit
+
+This Repo is cloned from [zume2020](https://github.com/zume2020/sumithran-resume).
 
 ## License
 
-Code released under the [MIT](https://github.com/zume2020/sumithran-resume/LICENSE) license.
+Code released under the [MIT](https://github.com/AshminAntony/ashminantony.github.io/blob/master/LICENSE) license.
