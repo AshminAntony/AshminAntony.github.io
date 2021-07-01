@@ -15,7 +15,7 @@
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* Clone the repo: `git clone https://github.com/zume2020/sumithran-resume.git`
+* Clone the repo: `git clone https://github.com/AshminAntony/ashminantony.github.io.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/AshminAntony/ashminantony.github.io)
 
 ## Usage
